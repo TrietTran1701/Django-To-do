@@ -4,7 +4,7 @@ This project create simple to-do app using django python
 
 Interface of the to-do app:
 
-![alt text](https://drive.google.com/file/d/1xh4CtafBcaxVrGa8ed7V607bOUG6IbHW/view?usp=sharing)
+![alt text](https://github.com/TrietTran1701/Django-To-do/blob/main/img/Untitled.png)
 
 
 ## 🔎 Project details
