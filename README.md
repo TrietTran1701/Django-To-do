@@ -2,6 +2,9 @@
 ## 📑 Overview
 This project create simple to-do app using django python
 
+Interface of the to-do app:
+![alt text](https://drive.google.com/file/d/1xh4CtafBcaxVrGa8ed7V607bOUG6IbHW/view?usp=sharing)
+
 
 ## 🔎 Project details
 ### Step by step implementation
